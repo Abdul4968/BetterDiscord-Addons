@@ -1,4 +1,4 @@
-# [BetterDiscord]([https://github.com/BetterDiscord/BetterDiscord](https://betterdiscord.app/)) Addons
+# [BetterDiscord](https://betterdiscord.app/) Addons
 
 A series of plugins and themes for BetterDiscord.
 
