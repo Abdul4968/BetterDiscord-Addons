@@ -2,9 +2,9 @@
 
 A series of plugins and themes for BetterDiscord.
 
-### [Plugins]()
+### [Plugins](https://github.com/Abdul4968/BetterDiscord-Addons/tree/main/Plugins)
 
-### [Themes]()
+### [Themes](https://github.com/Abdul4968/BetterDiscord-Addons/tree/main/Themes)
 
 ## How to Install a Plugin or Theme?
 1. Open the GitHub repository containing the plugin or theme you want to download.
